@@ -2,6 +2,20 @@
 	"name": "@ctx-core/shell",
 	"version": "3.1.33",
 	"description": "ctx-core shell",
+	"keywords": [
+		"ctx-core",
+		"shell"
+	],
+	"homepage": "https://github.com/ctx-core/shell#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/shell/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/shell/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.d.ts",
@@ -9,31 +23,17 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/shell/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"shell"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/shell/issues"
-	},
-	"homepage": "https://github.com/ctx-core/shell#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
 		"shelljs": "^0.8.4"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "471c3395289e64a2847fe0ea179d1ced13deba57"
 }
