@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 7.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 6.0.2
 
 ### Patch Changes
