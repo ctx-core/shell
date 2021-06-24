@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 7.0.8
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 7.0.7
 
 ### Patch Changes
