@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 7.0.10
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+
 ## 7.0.9
 
 ### Patch Changes
