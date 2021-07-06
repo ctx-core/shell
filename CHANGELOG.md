@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 7.0.11
+
+### Patch Changes
+
+- @types/shelljs: ^0.8.8 -> ^0.8.9
+
 ## 7.0.10
 
 ### Patch Changes
