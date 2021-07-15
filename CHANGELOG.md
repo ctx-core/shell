@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 8.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 7.0.11
 
 ### Patch Changes
