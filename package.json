@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/shell",
-	"version": "8.0.0",
+	"version": "8.0.1",
 	"description": "ctx-core shell",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,6 @@
 		"url": "https://github.com/ctx-core/shell/issues"
 	},
 	"license": "Apache-2.0",
-	"type": "module",
 	"author": "Brian Takita",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",

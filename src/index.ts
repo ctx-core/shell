@@ -1,1 +1,1 @@
-export * from './rmF'
+export * from './rmF.js'
