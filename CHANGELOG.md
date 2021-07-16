@@ -1,5 +1,17 @@
 # @ctx-core/shell
 
+## 8.0.9
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 8.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 8.0.7
 
 ### Patch Changes
