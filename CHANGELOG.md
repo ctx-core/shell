@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 8.0.13
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+
 ## 8.0.12
 
 ### Patch Changes
