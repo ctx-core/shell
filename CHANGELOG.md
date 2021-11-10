@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 8.0.15
+
+### Patch Changes
+
+- compile using swc
+
 ## 8.0.14
 
 ### Patch Changes
