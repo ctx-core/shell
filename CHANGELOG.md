@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.0
+
+### Major Changes
+
+- import { rmF } from '@ctx-core/shell'
+
 ## 8.0.16
 
 ### Patch Changes
