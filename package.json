@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/shell",
-	"version": "9.0.3",
+	"version": "9.0.4",
 	"description": "ctx-core shell",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.113",
+		"@swc/core": "^1.2.116",
 		"@types/shelljs": "^0.8.9",
 		"typescript": "next"
 	},
