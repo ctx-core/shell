@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.10
+
+### Patch Changes
+
+- fix: package.json: exports
+
 ## 9.0.9
 
 ### Patch Changes
