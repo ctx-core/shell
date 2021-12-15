@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.11
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 9.0.10
 
 ### Patch Changes
