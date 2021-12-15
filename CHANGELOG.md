@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.12
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 9.0.11
 
 ### Patch Changes
