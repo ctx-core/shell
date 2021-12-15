@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.9
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 9.0.8
 
 ### Patch Changes

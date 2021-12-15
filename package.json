@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/shell",
-	"version": "9.0.8",
+	"version": "9.0.9",
 	"description": "ctx-core shell",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }
