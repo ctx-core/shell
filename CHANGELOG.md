@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.15
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 9.0.14
 
 ### Patch Changes
