@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.19
+
+### Patch Changes
+
+- version bump
+
 ## 9.0.18
 
 ### Patch Changes
