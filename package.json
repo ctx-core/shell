@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/shell",
-	"version": "9.0.19",
+	"version": "9.0.20",
 	"description": "ctx-core shell",
 	"keywords": [
 		"ctx-core",
@@ -35,11 +35,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"shelljs": "^0.8.4"
+		"shelljs": "^0.8.5"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.125",
+		"@swc/core": "^1.2.127",
 		"@types/shelljs": "^0.8.10",
 		"rimraf": "^3.0.2",
 		"typescript": "next"

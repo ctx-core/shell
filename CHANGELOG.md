@@ -1,5 +1,12 @@
 # @ctx-core/shell
 
+## 9.0.20
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- shelljs: ^0.8.4 -> ^0.8.5
+
 ## 9.0.19
 
 ### Patch Changes
