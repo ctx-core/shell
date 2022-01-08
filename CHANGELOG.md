@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.21
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 9.0.20
 
 ### Patch Changes
