@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.22
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 9.0.21
 
 ### Patch Changes
