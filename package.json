@@ -37,9 +37,9 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
-		"@swc/core": "^1.3.26",
+		"@swc/core": "^1.3.27",
 		"@types/shelljs": "^0.8.11",
-		"rimraf": "^4.0.7",
+		"rimraf": "^4.1.0",
 		"typescript": "next"
 	},
 	"publishConfig": {
