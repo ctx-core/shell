@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.25
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 9.0.24
 
 ### Patch Changes
