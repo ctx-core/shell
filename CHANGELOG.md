@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.0.26
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 9.0.25
 
 ### Patch Changes
