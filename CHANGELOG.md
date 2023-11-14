@@ -1,5 +1,11 @@
 # @ctx-core/shell
 
+## 9.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 9.2.1
 
 ### Patch Changes
