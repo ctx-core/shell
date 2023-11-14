@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/shell",
-	"version": "9.2.2",
+	"version": "9.2.3",
 	"description": "ctx-core shell",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./rmF"
 	],
